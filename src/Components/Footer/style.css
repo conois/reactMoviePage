@@ -1,0 +1,10 @@
+.footer{
+    height: 5vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.footer p {
+    text-align: center;
+}

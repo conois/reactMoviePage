@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.flexCenter{
+  display: flex;
+  justify-content: space-around; 
+}
+
+.topMiddle{
+  height: 300px !important;
+}
+
+.separateTop{
+  margin-top: 20%;
+}
+
+.bodyapp {
+  height: 85vh;
+  outline: 2px solid black;
+}
